@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Rasty
+# Hi there, I'm Malik
 
 ### you are here to see cool things you can clone repositories and what ever you like but
 
