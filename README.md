@@ -7,13 +7,8 @@
 - 💬 Ask me about Fornt-End
 - 📫 How to reach me: [facebook](https://www.facebook.com/malekAwla)
 - ⚡ Fun fact: I love Football and i'm a goal keeper
-
-<<<<<<< HEAD
-=======
 ### you are here to see cool things you can clone repositories and what ever you like but
 ## (Don't Be Evil)
-
->>>>>>> f166d68deeed92a8b1d3923a4a451cf44bd0d69d
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Social Networks 👇</h2></summary>
     <ol>
