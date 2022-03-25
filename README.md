@@ -1,22 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Malik
 
-<!--
-**MalekIT99/MalekIT99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my own Admin Dashboard
+- 🌱 I’m currently learning Bootstrap & SASS
+- 👯 I’m looking to collaborate on making an Admin Dashboard with SASS
+- 🤔 I’m looking for help with someone familiar with Bootstrap 5 and SASS
+- 💬 Ask me about Fornt-End
+- 📫 How to reach me: [facebook](https://www.facebook.com/malekAwla)
+- ⚡ Fun fact: I love Football and i'm a goal keeper
 
-Here are some ideas to get you started:
+<<<<<<< HEAD
+=======
+### you are here to see cool things you can clone repositories and what ever you like but
+## (Don't Be Evil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Malik
-
+>>>>>>> f166d68deeed92a8b1d3923a4a451cf44bd0d69d
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Social Networks 👇</h2></summary>
     <ol>
