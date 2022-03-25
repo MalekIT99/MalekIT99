@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Malik
 
-### you are here to see cool things you can clone repositories and what ever you like but
-
-## (Don't Be Evil)
-
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Social Networks 👇</h2></summary>
     <ol>
