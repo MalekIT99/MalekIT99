@@ -19,16 +19,16 @@
 
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">Github Profile Trophy 👇</h2></summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=MalekIT99&theme=darkhub&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=MalikIT99&theme=darkhub&no-frame=true">
 </details>
 
 <details>
     <summary><h2 style="display:inline;color:#C9D1D9;font-weight:bold">My GitHub Stats 👇</h2></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=MalekIT99&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=MalikIT99&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalekIT99&theme=radical&hide_border=false&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikIT99&theme=radical&hide_border=false&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekIT99&theme=radical&hide_border=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikIT99&theme=radical&hide_border=false&layout=compact">
 
 </details>
 
